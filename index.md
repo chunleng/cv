@@ -1,80 +1,107 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Vitae
 ---
 
-# Isaac Newton
+# ChunLeng Lim
 
-Physicist, Mathematician, Cambridge professor.
+Web Developer, Data Engineer, Vimmer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="limchunleng@gmail.com">limchunleng@gmail.com</a>
+  | <a href="https://www.linkedin.com/in/chunleng/">https://www.linkedin.com/in/chunleng/</a>
 </div>
 
-## Currently
+## Professional Summary
 
-Standing on the shoulders of giants
+Throughout mine career, I have been working with good people on data-related
+projects. Moreover in the recent projects, I am given opportunities to lead
+and manage the project in the aspects of human management, technical design and
+project planning.
 
-### Specialized in
+### Specialized In
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Web Architecture Design and Development, Data Engineering
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+Best Team (as team leader), LOGLY Inc., Tokyo Japan
 
-Associate, *French Academy of Science*, Paris, France
+`2020`
+Best Player Award, LOGLY Inc., Tokyo Japan
 
-## Publications
+`2014`
+Silver Prize, *Asia Supercomputing Challenge*, Guangzhou China
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Career
 
-### Journals
+`Jun '18 - Present`
+__LOGLY Inc, Tokyo Japan__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- B2C Product Development, Technical Lead
+  - Multiple products handled at the same time
+  - Language and Framework
+    - React, NextJs, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI, GraphQL, AWS
+  - Key Responsibility
+    - Scrum Master
+    - Product Planning
+    - Architecture Design
+    - Development
 
-`1669`
-Lectiones opticæ.
+- Data Management Platform, Technical Lead
+  - Language and Framework
+    - Spring, TreasureData, Digdag, Presto, Php, AWS
+  - Key Responsibility
+    - Scrum Master
+    - Requirements elicitation of request from external client
+    - Development
 
-etc. etc. etc.
+- Advertising Platform, Developer
+  - Language and Framework
+    - Rails, Luigi, AWS Athena
+  - Key Responsibility
+    - Data Engineering
 
-### Patents
+`Feb ‘17 - May ‘18`
+__Works Application Co. Ltd, Tokyo Japan__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- OCR Service, Technical Lead
+  - Language and Framework
+    - Spring, Redis, RabbitMQ, ABBYY, ISP OCR
+  - Key Responsibility
+    - Architecture Design
+    - Managing team from Shanghai
 
-## Occupation
+- Code Search Engine, Developer
+  - Language and Framework
+    - Sinatra, Vue.js, ElasticSearch, OpenStack
+  - Key Responsibility
+    - Product Management, requirement gathering and elicitation
+    - Full-stack development
 
-`1600`
-__Royal Mint__, London
+`Oct '14 - Dec '16`
+__Rakuten Inc, Tokyo Japan__
 
-- Warden
-- Minted coins
+- Search Autocomplete System, Developer
+  - Language and Framework
+    - Hadoop Hive, Solr, Shell Scripting, Jenkins, Rundeck
+  - Key Responsibility
+    - Operation reliability
+    - Building DevOps tools
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Education
+
+`2011 - 2014`
+__Nanyang Technological University, Singapore__
+
+- Bachelor in Engineering (Computer Science) with Second Class Honors (Upper Division)
+
+## Language
+
+- English: spoken/written
+- Chinese: spoken/written
+- Japanese: spoken/written
 
 <!-- ### Footer
 
