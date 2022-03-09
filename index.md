@@ -42,20 +42,47 @@ __LOGLY Inc, Tokyo Japan__
 - B2C Product Development, Technical Lead
   * Multiple products handled at the same time
   * Language and Framework
-    + React, NextJs, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI, GraphQL, AWS
+    + React (Typescript), NextJs (Typescript), Vue, TailwindCSS, FastAPI (Python
+      with Type), Rails, Java, OpenAPI (RPC), GraphQL, AWS, Terraform,
+      Serverless, Postgres
   * Key Responsibility
     + Scrum Master
     + Product Planning
     + Architecture Design
     + Development
+  * Details
+    + Planning a product from start, I gathered the product owner, designer and
+      engineer to complete the inception deck, get everyone to discuss the tools
+      for means of communications amongst the team. The product is completed and
+      ready for launch as planned after 6 months of planning and development
+    + Engineering wise, due to the growth of the company and expansion of
+      product, we introduced serverless stack to the product to help reduce the
+      cost at the beginning of the product.
+    + Also, to make it easier for development, proper use of ESLint with
+      prettier and python black was put in the earlier stage of development,
+      with integretion to Github around 2 months into the development
+    + To strike a balance between test coverage and speed, while unit test is
+      necessary for only complicated modules, end-to-end test automation was
+      implemented on every feature and is strictly reviewed during pull
+      requests.
+    + During the deployment, we utilized Terraform and Serverless, carefully
+      design the way it is written to ensure each developer can setup their own
+      testable infrastructure on AWS
 
 - Data Management Platform, Technical Lead
   * Language and Framework
-    + Spring, TreasureData, Digdag, Presto, Php, AWS
+    + Spring, TreasureData, Digdag, Presto, Php, AWS, ElasticSearch
   * Key Responsibility
     + Scrum Master
     + Requirements elicitation of request from external client
     + Development
+  * Details
+    + Our company bought over another's company product and I was tasked to lead
+      the engineer into learning the system development and operation from the
+      other company's engineer within the handover period. It is important to
+      fully understand during the period as the engineer in the other company
+      did not join to my company, meaning that we have to figure it out on our
+      own if we didn't get to learn about it during the period
 
 - Advertising Platform, Developer
   * Language and Framework
