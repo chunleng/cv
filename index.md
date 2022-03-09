@@ -57,17 +57,20 @@ __LOGLY Inc, Tokyo Japan__
       ready for launch as planned after 6 months of planning and development
     + Engineering wise, due to the growth of the company and expansion of
       product, we introduced serverless stack to the product to help reduce the
-      cost at the beginning of the product.
-    + Also, to make it easier for development, proper use of ESLint with
-      prettier and python black was put in the earlier stage of development,
-      with integretion to Github around 2 months into the development
-    + To strike a balance between test coverage and speed, while unit test is
-      necessary for only complicated modules, end-to-end test automation was
-      implemented on every feature and is strictly reviewed during pull
-      requests.
+      cost at the beginning of the product. The serverless architecture also
+      naturally allows greater scalability according to traffic
+    + While not fully microservice, for the purpose of less complication during
+      intial deployment, the team commit to the practice of microservice
+      architecture and therefore the application can be easily divided in the
+      future if needed
+    + The product involves payment and we utilized Stripe for the purpose. I was
+      the engineer involved in the implementation and the challenge is to allow
+      high traffic payment without having overbooking
     + During the deployment, we utilized Terraform and Serverless, carefully
       design the way it is written to ensure each developer can setup their own
-      testable infrastructure on AWS
+      testable infrastructure on AWS. Another part that was challenging about
+      the deployment was to ensure that Cloudfront's cache is done in the right
+      way, properly using the browser cache before trying to query to Cloudfront
 
 - Data Management Platform, Technical Lead
   * Language and Framework
@@ -76,13 +79,6 @@ __LOGLY Inc, Tokyo Japan__
     + Scrum Master
     + Requirements elicitation of request from external client
     + Development
-  * Details
-    + Our company bought over another's company product and I was tasked to lead
-      the engineer into learning the system development and operation from the
-      other company's engineer within the handover period. It is important to
-      fully understand during the period as the engineer in the other company
-      did not join to my company, meaning that we have to figure it out on our
-      own if we didn't get to learn about it during the period
 
 - Advertising Platform, Developer
   * Language and Framework
