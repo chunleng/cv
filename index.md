@@ -44,7 +44,7 @@ __LOGLY Inc, Tokyo Japan__
   * Language and Framework
     + React (Typescript), NextJs (Typescript), Vue, TailwindCSS, FastAPI (Python
       with Type), Rails, Java, OpenAPI (RPC), GraphQL, AWS, Terraform,
-      Serverless, Postgres
+      Serverless, Postgres, Docker, Kubernetes
   * Key Responsibility
     + Scrum Master
     + Product Planning
@@ -71,22 +71,15 @@ __LOGLY Inc, Tokyo Japan__
 
 - Data Management Platform, Technical Lead
   * Language and Framework
-    + Spring, TreasureData, Digdag, Presto, Php, AWS, ElasticSearch
+    + Spring, TreasureData, Digdag, Presto, Php, AWS, ElasticSearch, Docker
   * Key Responsibility
     + Scrum Master
     + Requirements elicitation of request from external client
     + Development
-  * Details
-    + Our company bought over another's company product and I was tasked to lead
-      the engineer into learning the system development and operation from the
-      other company's engineer within the handover period. It is important to
-      fully understand during the period as the engineer in the other company
-      did not join to my company, meaning that we have to figure it out on our
-      own if we didn't get to learn about it during the period
 
 - Advertising Platform, Developer
   * Language and Framework
-    + Rails, Luigi, AWS Athena
+    + Rails, Luigi, AWS Athena, ECS
   * Key Responsibility
     + Data Engineering
 
