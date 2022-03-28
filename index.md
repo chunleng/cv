@@ -42,7 +42,8 @@ __LOGLY Inc, Tokyo Japan__
 - B2C Product Development, Technical Lead
   * Multiple products handled at the same time
   * Language and Framework
-    + React, NextJs, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI, GraphQL, AWS
+    + React, NextJs, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI, GraphQL,
+      AWS, Terraform, Serverless, PostgreSQL, Docker, Kubernetes
   * Key Responsibility
     + Scrum Master
     + Product Planning
@@ -51,7 +52,7 @@ __LOGLY Inc, Tokyo Japan__
 
 - Data Management Platform, Technical Lead
   * Language and Framework
-    + Spring, TreasureData, Digdag, Presto, Php, AWS
+    + Spring, TreasureData, Digdag, Presto, Php, AWS, ElasticSearch, Docker
   * Key Responsibility
     + Scrum Master
     + Requirements elicitation of request from external client
@@ -59,7 +60,7 @@ __LOGLY Inc, Tokyo Japan__
 
 - Advertising Platform, Developer
   * Language and Framework
-    + Rails, Luigi, AWS Athena
+    + Rails, Luigi, AWS Athena, ECS
   * Key Responsibility
     + Data Engineering
 
