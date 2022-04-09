@@ -42,8 +42,8 @@ __LOGLY Inc, Tokyo Japan__
 - B2C Product Development, Technical Lead
   * Multiple products handled at the same time
   * Language and Framework
-    + React, NextJs, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI, GraphQL,
-      AWS, Terraform, Serverless, PostgreSQL, Docker, Kubernetes
+    + React, NextJs, Cypress, Vue, TailwindCSS, FastAPI, Rails, Java, OpenAPI,
+      GraphQL, AWS, Terraform, Serverless, PostgreSQL, Docker, Kubernetes
   * Key Responsibility
     + Scrum Master
     + Product Planning
