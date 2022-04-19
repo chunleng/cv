@@ -14,10 +14,9 @@ Web Developer, Data Engineer, Vimmer
 
 ## Professional Summary
 
-Throughout mine career, I have been working with good people on data-related
-projects. Moreover in the recent projects, I am given opportunities to lead
-and manage the project in the aspects of human management, technical design and
-project planning.
+Throughout my career, I have been working with good people on data-related
+projects. In recent projects, my company has given me the opportunities to lead and
+manage in the area of human management, technical design, and project planning.
 
 ### Specialized In
 
