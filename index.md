@@ -35,7 +35,18 @@ Silver Prize, *Asia Supercomputing Challenge*, Guangzhou China
 
 ## Career
 
-`Jun '18 - Present`
+`Sep '22 - Present`
+__Woven By Toyota, Inc__
+
+- Enterprise AI, Software Engineer
+  * Develop and maintain Annotation System
+  * Language and Framework
+    + Python, NextJs, TailwindCSS, FastAPI, OpenAPI, AWS, Terraform, PostgreSQL,
+      MongoDB, Docker, Kubernetes
+  * Key Responsibility
+    + Development
+
+`Jun '18 - Sep '22`
 __LOGLY Inc, Tokyo Japan__
 
 - B2C Product Development, Technical Lead
