@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # ChunLeng Lim
 
-Web Developer, Data Engineer, Vimmer
+Data Engineer, Web Developer, Vimmer
 
 <div id="webaddress">
   <a href="limchunleng@gmail.com">limchunleng@gmail.com</a>
@@ -15,12 +15,13 @@ Web Developer, Data Engineer, Vimmer
 ## Professional Summary
 
 Throughout my career, I have been working with good people on data-related
-projects. In recent projects, my company has given me the opportunities to lead and
-manage in the area of human management, technical design, and project planning.
+projects. I have been given the opportunities to lead and manage many
+interesting projects involving various data such as e-commerce search logs,
+digital advertising logs and auto-driving images.
 
 ### Specialized In
 
-Web Architecture Design and Development, Data Engineering
+Data Engineering, Web Architecture Design and Development
 
 ## Awards
 
@@ -45,6 +46,10 @@ __Woven By Toyota, Inc__
       MongoDB, Docker, Kubernetes
   * Key Responsibility
     + Development
+    + Performing transition of a service base of S3 storage to one with a
+      fully-operation backend.
+    + Build tools to help aid operation members to communicate with 3rd-party
+      services
 
 `Jun '18 - Sep '22`
 __LOGLY Inc, Tokyo Japan__
@@ -106,7 +111,8 @@ __Rakuten Inc, Tokyo Japan__
 `2011 - 2014`
 __Nanyang Technological University, Singapore__
 
-- Bachelor in Engineering (Computer Science) with Second Class Honors (Upper Division)
+- Bachelor in Engineering (Computer Science) with Second Class Honors (Upper
+  Division)
 
 ## Language
 
